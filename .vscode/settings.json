@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.txt": "markdown",
+        "*_vimrc": "viml",
+        "CMakeLists.txt": "cmake",
+        ".clang-format": "yaml",
+        "requirements.txt": "dotenv",
+        "*.toml*": "toml",
+        "advanced.config": "erlang",
+        "rabbitmq.conf": "ini",
+        "*.csproj": "msbuild",
+        "*logstash.conf": "logstash",
+        "*.axaml": "xml",
+        "*.json": "jsonc",
+        "package.json": "json",
+        "esp_system.h": "c"
+    }
+}
